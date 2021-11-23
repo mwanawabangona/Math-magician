@@ -1,5 +1,5 @@
 # Math-magician
-> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and read a random math-related quote. 
+> "Math magicians" is basically a website for everyone who loves mathematics. It is not much cause its a Single Page App that enables users to make simple calculations and read a random math-related quote. 
 
 ## Live Demo
 > Click [here](https://eager-meitner-73b056.netlify.app/) to view the project live demo.
