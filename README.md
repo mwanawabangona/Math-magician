@@ -1,137 +1,80 @@
-# Math-magician
-> "Math magicians" is basically a website for everyone who loves mathematics. It is not much cause its a Single Page App that enables users to make simple calculations and read a random math-related quote. 
 
-## Live Demo
-> Click [here](https://eager-meitner-73b056.netlify.app/) to view the project live demo.
+# js-capstone
 
-## Built With
+In this project we will prepare a Kanban board with a GitHub project, with my Learning partner. 
+It's javascript capstone project with external API.
 
-- React
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# We used:
+- Html & CSS
+- Webpacks
+- Linters
+- Jest
+- & Javascript
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![screenshot](./img/screenshot.png)
+ 
+## Built With the following
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- HTML
+- CSS
+- HTML&CSS Linter
+- Webpack
 
-### `npm test`
+## Get Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Please get your browser update.
+To get a local copy up and running follow these simple steps.
 
-### `npm run build`
+Run the command below from the Terminal:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+      git clone <URL> 'https://github.com/mwanawabangona/js-capstone/tree/dev' in your terminal
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+	 
+  ```cd events```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+> install project dependencies
 
-### `npm run eject`
+  ```npm install```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+> build project
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  ```npm run build```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+> start project
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  ```npm start```
 
-## Author
 
-👤 **Ellis Ngona**
 
-- GitHub: [@mwanawabangona](https://github.com/mwanawabangona)
-- Twitter: [@Ellis_aah](https://twitter.com/ellis_aah)
 
+## Authors
+
+👤 **Ellis**
+
+- Location: Zambia
+- GitHub: [@mwnanawabangona](https://github.com/mwanawabangona)
+- Twitter: [@Ellis_aah](https://twitter.com/Ellis-aah)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/mwanawabangona/js-capstone/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Acknowledgments
 
-## Available Scripts
+- Thanks to Microverse and my Coding Partners
 
-In the project directory, you can run:
+## 📝 License
 
-### `npm start`
+This project is [MIT](./MIT.md) licensed.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
