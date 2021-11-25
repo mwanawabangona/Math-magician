@@ -1,20 +1,10 @@
-
-# js-capstone
-
-In this project we will prepare a Kanban board with a GitHub project, with my Learning partner. 
-It's javascript capstone project with external API.
-
-
-
+# Math-magician
+> "Math magicians" It is just a simple project uses a Single Page App that enables users to make simple calculations and read a random math-related quote. 
 # We used:
 - Html & CSS
-- Webpacks
+- React
 - Linters
-- Jest
 - & Javascript
-
-
-
 
 ![screenshot](./img/screenshot.png)
  
@@ -32,7 +22,7 @@ To get a local copy up and running follow these simple steps.
 
 Run the command below from the Terminal:
 
-      git clone <URL> 'https://github.com/mwanawabangona/js-capstone/tree/dev' in your terminal
+      git clone <URL> 'https://github.com/mwanawabangona/Math-magician/issues' in your terminal
 
 	 
   ```cd events```
@@ -48,10 +38,6 @@ Run the command below from the Terminal:
 > start project
 
   ```npm start```
-
-
-
-
 ## Authors
 
 👤 **Ellis**
@@ -73,8 +59,6 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Thanks to Microverse and my Coding Partners
-
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
