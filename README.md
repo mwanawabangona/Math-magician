@@ -1,4 +1,4 @@
-# Math-magician
+
 > "Math magicians" is basically a website for everyone who loves mathematics. It is not much cause its a Single Page App that enables users to make simple calculations and read a random math-related quote. 
 
 ## Live Demo
@@ -134,4 +134,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fa
+> Math-magician
+Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and also read random math-related quotes.
+dev
