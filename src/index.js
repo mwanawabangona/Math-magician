@@ -2,7 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import { BrowserRouter as Router } from 'react-router-dom';
 import './index.css';
-// eslint-disable-next-line import/extensions
 import App from './App';
 
 ReactDOM.render(
