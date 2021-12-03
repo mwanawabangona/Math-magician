@@ -7,6 +7,8 @@
 - & Javascript
 
 ![screenshot](./img/screenshot.png)
+
+## live Demo [click here](https://mwanawabangona.github.io/Math-magician/)
  
 ## Built With the following
 
