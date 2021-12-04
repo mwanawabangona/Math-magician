@@ -15,7 +15,7 @@
 - HTML
 - CSS
 - HTML&CSS Linter
-- Webpack
+- React
 
 ## Get Started
 
